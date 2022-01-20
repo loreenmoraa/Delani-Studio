@@ -1,5 +1,4 @@
 # Delani Studio
-#### {Brief description of application}, {Date of current version}
 #### By Loreen Moraa
 ## Description
 This is a webpage for Delani studio that gives a detailed account about who they are, the services they offer, what they do, a portfolio section that shows the projects they have done so far and a form that enables users to reach out to them. 
